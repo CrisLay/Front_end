@@ -1,13 +1,13 @@
 # THESIS Front-end
  
-First: Download the  file from the Github.
+First: Download the  files from the Github.
 
-Third: Copy the folder named LouGehSupermarket in your htcdocs folder.
+Third: Create the folder named  in your htcdocs folder.
 
 Fourth: Then start you xammp control panel.
 
 Fifth: Open PHPMyAdmin and create a database name datareadings.
 
-Sixth: Import the vital_.sql file from the extracted folder.
+Sixth: Import the vital_t.sql file from the downloaded sql file.
 
-Seventh: Run the script http://localhost//login.php .
+Seventh: Run the script http://localhost/
